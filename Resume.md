@@ -57,7 +57,7 @@ A technical manager obsessed with delivering great products to customers.
 * Programming Languages: 
   * Experienced user of C#, F#, and Java.
   * Some experience using Objective-C, C, C++, Scala, OCaml and Dart .
-  * Significant experience using functional and reactive programmaing techniques.
+  * Significant experience utilizing functional and reactive programmaing techniques to develop elegant and terse solutions to complex problems.
 * Networking fundamentals: OSI network model, TCP/IP.
 * Expert knowledge of the HTTP protocol application layer and utilizing it to implement RESTful APIs.
 * Mobile development using Xamarin for Android and iOS.
