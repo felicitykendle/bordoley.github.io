@@ -14,7 +14,7 @@ A technical manager obsessed with delivering great products to customers.
 *May, 2014 - Present* : **Amazon.Com, Technical Program Manager** (Items and Offers Pipeline)
 
 * Program and project manager for the Amazon.com catalog team.
-* Resposible for driving all major initiatives related to the Amazon catalog for all business units including Amazon retail, Digital and 3rd party sellers.
+* Responsible for driving all major initiatives related to the Amazon catalog for all business units including Amazon retail, Digital and 3rd party sellers.
 * Primary point of contact for all teams at Amazon integrating with the Amazon catalog.
 * Team scrum master.
 
