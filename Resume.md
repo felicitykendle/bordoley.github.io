@@ -60,3 +60,4 @@ December, 2005 - June, 2007
 
 
 ## Open Source
+* Maintainer of [SQLitePCL.pretty] (https://github.com/bordoley/SQLitePCL.pretty) - A .NET wrapper for SQLite that  a provides a C# object oriented API that is familiar and easy to use.
