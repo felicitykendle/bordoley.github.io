@@ -53,6 +53,14 @@ A technical manager obsessed with delivering great products to customers.
 
 *1998 - 2002* : **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
 
+## Technical Skills
+* Programming Languages: 
+  * Experienced user of C#, F#, and Java.
+  * Some experience using Objective-C, C, C++, Scala, OCaml and Dart .
+  * Significant experience using functional and reactive programmaing techniques.
+* Networking fundamentals: OSI network model, TCP/IP.
+* Expert knowledge of the HTTP protocol application layer and utilizing it to implement RESTful APIs.
+* Mobile development using [Xamarin] (http://xamarin.com/) for Android and iOS.
 
 ## Open Source
 * Maintainer of [SQLitePCL.pretty] (https://github.com/bordoley/SQLitePCL.pretty) - A .NET wrapper for SQLite that  a provides a C# object oriented API that is familiar and easy to use.
