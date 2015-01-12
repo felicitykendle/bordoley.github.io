@@ -7,6 +7,8 @@ Experience
 May, 2014 - Present
 :   **Amazon.Com, Technical Program Manager** (Items and Offers Pipeline)
 
+June, 2012 - May, 2014
+:    **Amazon.com, Sofware Development Manager** (Amazon Cloud Drive Desktop)
 * Led a team of six developers and two QA engineers in building and delivering the 
   Amazon Cloud Drive desktop client for Mac and Windows, from scratch and through multiple iterations.
 * Worked closely with product development, design and usability teams to define the customer 
@@ -22,9 +24,6 @@ May, 2014 - Present
   productivity, including dependency injection, MVVM user interface design, and asynchronous programming 
   using the C# Task Parallel Library, Reactive Extension, ReactiveUI and Reactive Cocoa.
 * Lead developer on the initial release of both the Mac and Windows clients.
-
-June, 2012 - May, 2014
-:    **Amazon.com, Sofware Development Manager** (Amazon Cloud Drive Desktop)
 
 January, 2010 - June, 2012
 :    **Amazon.com, Technical Program Manager** (AmazonWireless)
