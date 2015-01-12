@@ -1,19 +1,17 @@
-David Bordoley 
+# David Bordoley 
 ==============
 
 Email: bordoley@gmail.com<br>
 Website : http://bordoley.github.io/
 
-Overview
---------
+## Overview
 A technical manager obsessed with delivering great products to customers.
 * A leader with experience delivering projects on time using agile development methodologies.
 * Deep understanding of software development best practices.
 * Life long ambition to learn and be ahead of the technology curve.
 * A strong mentor that enjoys helping others develop their careers.
 
-Experience
-----------
+## Experience
 May, 2014 - Present
 :   **Amazon.Com, Technical Program Manager** (Items and Offers Pipeline)
 
@@ -49,8 +47,7 @@ December, 2005 - June, 2007
 * Launched the IM2MMS service allowing bi-directional multimedia messaging from AOL Instant Messenger to T-Mobile handsets over MMS.
 * Developed and executed a full migration plan to migrate all traffic from an existing legacy system to a geo-redundant MMSC.
 
-Education
----------
+## Education
 2009 - 2014
 :    **MS, Computer Science**; University of Washinghton (Seattle, Wa)
 
@@ -62,3 +59,6 @@ Education
 
 1998 - 2002
 :    **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
+
+
+## Open Source
