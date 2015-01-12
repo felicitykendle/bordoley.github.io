@@ -16,7 +16,7 @@ A technical manager obsessed with delivering great products to customers.
 * Primary point of contact for all teams at Amazon integrating with the Amazon catalog.
 * Team scrum master.
 
-*June, 2012 - May, 2014* : **Amazon.com, Software Development Manager** (Amazon Cloud Drive Desktop Client for Mac and Windows)
+*June, 2012 - May, 2014* : **Amazon.com, Software Development Manager** (Cloud Drive Desktop Client for Mac and Windows)
 * Led a team of six developers and two QA engineers in building and delivering the Amazon Cloud Drive desktop client for Mac and Windows, from scratch and through multiple iterations.
 * Worked closely with product development, design and usability teams to define the customer experience and slice functionality into useful independent releases.
 * Established an agile scrum process for the team that closely integrated design and product management in the development process.
