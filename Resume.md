@@ -51,11 +51,11 @@ A technical manager obsessed with delivering great products to customers.
 * Developed and executed a full migration plan to migrate all traffic from an existing legacy system to a geo-redundant MMSC.
 
 ## Education
-*2009 - 2014* : **MS, Computer Science**; University of Washinghton (Seattle, Wa)
+*2009 - 2014* : **MS, Computer Science**; University of Washington (Seattle, Wa)
 
 *2003 - 2005* : **MS, Electrical Engineering**; University of Washington (Seattle, Wa)
 
-*1998 - 2002* : **BS with High Honors, Electrical Enginering**; Michigan State University (East Lansing, MI)
+*1998 - 2002* : **BS with High Honors, Electrical Engineering**; Michigan State University (East Lansing, MI)
 
 *1998 - 2002* : **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
 
