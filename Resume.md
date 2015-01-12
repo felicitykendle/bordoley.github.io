@@ -1,9 +1,6 @@
----
----
-
 # David Bordoley 
 Email: bordoley@gmail.com<br>
-Website : http://bordoley.github.io/
+Website : https://github.com/bordoley/
 
 ## Overview
 A technical manager obsessed with delivering great products to customers.
