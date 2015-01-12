@@ -70,4 +70,4 @@ A technical manager obsessed with delivering great products to customers.
 
 ## Open Source
 * Maintainer of [SQLitePCL.pretty](https://github.com/bordoley/SQLitePCL.pretty) - A .NET wrapper for SQLite that provides an object oriented API built upon LINQ and the RX extensions that is familiar and easy to use by C# developers.
-* Currently developing [FunctionalHttp](https://github.com/bordoley/FunctionalHttp) - A .NET API written in F# that provides developers an immutable data model for creating and manipulating HTTP requests and responses, along a with a fully asynchronous API for implementing HTTP clients and servers using F# asynchronous computations.
+* Currently developing [FunctionalHttp](https://github.com/bordoley/FunctionalHttp) - A .NET API written in F# that provides developers an immutable data model for creating and manipulating HTTP requests and responses, along with a fully asynchronous API for implementing HTTP clients and servers using F# asynchronous computations.
