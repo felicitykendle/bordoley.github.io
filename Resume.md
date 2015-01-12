@@ -4,7 +4,7 @@ Website : https://github.com/bordoley/
 
 ## Overview
 A technical manager obsessed with delivering great products to customers.
-* A leader with experience delivering projects on time using agile development methodologies.
+* A leader with experience delivering projects on time using agile scrum development methodologies.
 * Deep understanding of software development best practices.
 * Life long ambition to learn and be ahead of the technology curve.
 * A strong mentor that enjoys helping others develop their careers.
