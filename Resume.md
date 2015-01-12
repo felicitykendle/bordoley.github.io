@@ -52,3 +52,4 @@ December, 2005 - June, 2007 : **T-Mobile, System Design Engineer** (Picture Mess
 
 ## Open Source
 * Maintainer of [SQLitePCL.pretty] (https://github.com/bordoley/SQLitePCL.pretty) - A .NET wrapper for SQLite that  a provides a C# object oriented API that is familiar and easy to use.
+* Currently developing [FunctionalHttp] (https://github.com/bordoley/FunctionalHttp) - A .NET API written in F# that provides developers an immutable data model for creating and manipulating HTTP requests and responses, along a with a fully asynchronous API for implementing HTTP clients and servers using F# asynchronous computations.
