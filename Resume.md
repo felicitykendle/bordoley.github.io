@@ -28,9 +28,16 @@ January, 2010 - June, 2012
 
 June, 2007 - December 2009
 :    **T-mobile, Sr. System Design Engineer** (Web Applications)
+* Lead system design engineer for the T-Mobile Album mobile photo sharing service.
+* Successfully launched the MobileLife web portal on a highly aggressive schedule.
+* Developed technical specifications for the T-Mobile Album RESTful web service API based upon the Atom Publication Protocol, OpenSearch 1.1 and MediaRSS 1.2, and worked closely with the third party vendor to implement the service.
+* Co-author of T-Mobile internal AJAX web application standards and best practices documentation.
 
 December, 2005 - June, 2007
 :    **T-Mobile, System Design Engineer** (Picture Messaging)
+* Subject matter expert in all aspects of 3GPP multimedia messaging (MMS) interfaces and protocols (MM1, MM3, MM4 and MM7).
+* Launched the IM2MMS service allowing bi-directional multimedia messaging from AOL Instant Messenger to T-Mobile handsets over MMS.
+* Developed and executed a full migration plan to migrate all traffic from an existing legacy system to a geo-redundant MMSC.
 
 Education
 ---------
