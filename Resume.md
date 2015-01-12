@@ -62,7 +62,7 @@ A technical manager obsessed with delivering great products to customers.
 ## Technical Skills
 * Programming Languages: 
   * Experienced user of C#, F#, and Java.
-  * Some experience using Objective-C, C, C++, Scala, OCaml and Dart .
+  * Some experience using Objective-C, C, C++, Scala, OCaml and Dart.
   * Significant experience utilizing functional and reactive programming techniques to develop elegant and terse solutions to complex problems.
 * Networking fundamentals: OSI network model, TCP/IP.
 * Expert knowledge of the HTTP protocol application layer and utilizing it to implement RESTful APIs.
