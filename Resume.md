@@ -1,5 +1,5 @@
 # David Bordoley 
-Email: bordoley@gmail.com<br>
+Email: bordoley@gmail.com  
 Website : https://github.com/bordoley/
 
 ## Overview
