@@ -39,7 +39,7 @@ A technical manager obsessed with delivering beautiful products that customers l
 * Launched realtime SMS verification for wireless upgrade transactions.
 * Led the migration of AmazonWireless services to EC2.
 
-*June, 2007 - December 2009* : **T-mobile, Sr. System Design Engineer** (Web Applications)
+*June, 2007 - December, 2009* : **T-mobile, Sr. System Design Engineer** (Web Applications)
 
 * Lead system design engineer for the T-Mobile Album mobile photo sharing service.
 * Successfully launched the MobileLife web portal on a highly aggressive schedule.
