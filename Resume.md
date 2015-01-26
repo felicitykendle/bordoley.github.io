@@ -3,7 +3,7 @@ Email: felicia.navarro09@gmail.com
 
 ## Overview
 
-*	Two and a half years in medical device/biotech industry experience and over three years in academic research laboratory
+*	Three years in medical device/biotech industry experience and three plus years in academic research laboratory
 * Experience in medical device biotech quality control, manufacturing, product development, in R&D environment, as well as experimental design, optimization and validation experience in a GMP/GLP/GCP laboratory
 * Molecular and Immunological SOP expertise, including: Cell culture, PCR, Nucleic acid extraction and purification
 * Organized, attentive to detail, self-motivated, excellent time management
