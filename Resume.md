@@ -63,18 +63,10 @@ Email: felicia.navarro09@gmail.com
 
 *2003 - 2005* : **MS, Electrical Engineering**; University of Washington (Seattle, Wa)
 
-*1998 - 2002* : **BS with High Honors, Electrical Engineering**; Michigan State University (East Lansing, MI)
-
-*1998 - 2002* : **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
 
 ## Technical Skills
-* Programming Languages: 
-  * Experienced user of C#, F#, and Java.
-  * Some experience using Objective-C, C, C++, Scala, OCaml and Dart.
-  * Significant experience utilizing functional and reactive programming techniques to develop elegant and terse solutions to complex problems.
-* Networking fundamentals: OSI network model, TCP/IP.
-* Expert knowledge of the HTTP protocol application layer and utilizing it to implement RESTful APIs.
-* Mobile development using Xamarin for Android and iOS.
+
+* Computer: Proficiency using MS Word, Excel, LIMS
 
 ## Relevant Coursework
 
