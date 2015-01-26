@@ -1,6 +1,5 @@
-# David Bordoley 
-Email: bordoley@gmail.com  
-Website : https://github.com/bordoley/
+# Felicia G. Navarro
+Email: felicia.navarro09@gmail.com 
 
 ## Overview
 A technical manager obsessed with delivering beautiful products that customers love to use.
