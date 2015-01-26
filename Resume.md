@@ -23,7 +23,42 @@ Email: felicia.navarro09@gmail.com
 * Maintained database of reagent and laboratory inventory 
 * Handled routine ordering of QC Lab equipment and supplies 
 
+*July 2012 – October 2012* : **Aerotek Scientific/Covance Genomics Laboratory, Inc., Research Associate** (RNA Extraction)
 
+* Routinely utilized protocols and performed high sample volume experiments including tissue homogenization, RNA extraction and isolation in a controlled, organized, documented and timely manner
+* Trained on and performed new protocols quickly and competently
+* Worked methodically and in an organized, detail-oriented manner to avoid errors 
+* Worked closely with the laboratory supervisor and lab leads to understand specific daily tasks
+* Worked individually and as part of a team in order to perform specific, prioritized objectives
+* Utilized LIMS database to schedule, store and record data, as well as observations pertaining to non-conformance issues
+
+*December 2010 – April 2012* : **Blood Cell Storage, Inc., Research Associate** (Nucleic Acid Extraction)
+
+* Carried out experiments for nucleic acid extraction product development under supervision of Senior Scientist
+* Routinely extracted nucleic acid from CFP and FFPE samples using proprietary micro-fluidic platform
+* Participated in experimental design, development, applications testing and prototype testing
+* Routinely ran qPCR, RT-PCR (ABI 7500 machine) and PicoGreen assays and analyzed experimental data; carefully documented all experiments in notebook
+* Regularly reported  study results to supervisors
+* Manufactured/prepared and maintained inventory of all nucleic acid extraction reagents for R&D and sale purposes using formal company documents under GMP/GLP standards
+* Routinely separated human whole blood into CFP for R&D use
+* Implemented innovative solutions to manufacturing or experimental SOPs when observed need for improvement
+* Collaborated with QA department in manufacture and incoming inspection of product components
+* Regularly utilized, edited and drafted formal documents (SOPs/DHRs/RMSs)
+* Attended weekly meetings with team members to update progress and exchange ideas
+* Submitted validation and verification studies and reports for study improvement and QA purposes
+
+New Mexico Institute of Mining and Technology – Biology Department
+
+Research Assistant, August 2006 – May 2009
+
+•	Designed experimental setup for pre-clinical drug discovery research screening non-proprietary chemical compounds for potential antibiotic activity
+•	Prepared reagents for experimental use; worked daily under BSL 2 conditions
+•	Cultured and maintained multi-drug resistant S. aureus colonies, utilized micro-plate reading spectrophotometer to derive bacterial growth curves
+•	Worked in tissue culture laboratory harvesting HeLa cells
+•	Performed MTT (cell viability/toxicity) assays
+•	Analyzed and interpreted data from all experimental procedures
+•	Presented ongoing research at weekly research group meetings
+•	Carried out routine laboratory maintenance, including: restocking chemicals/reagents, autoclaving glassware, supplies and hazardous waste
 
 ## Education
 *2009 - 2014* : **MS, Computer Science**; University of Washington (Seattle, Wa)
