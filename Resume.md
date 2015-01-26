@@ -1,5 +1,6 @@
 # Felicia G. Navarro
 Email: felicia.navarro09@gmail.com 
+Phone: (206) 552-4307
 
 ## Overview
 
