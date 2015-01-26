@@ -47,7 +47,7 @@ Email: felicia.navarro09@gmail.com
 * Attended weekly meetings with team members to update progress and exchange ideas
 * Submitted validation and verification studies and reports for study improvement and QA purposes
 
-*August 2006 – May 2009* : **New Mexico Institute of Mining and Technology - Research Assistant* (Biology Department)
+*August 2006 – May 2009* : **New Mexico Institute of Mining and Technology - Research Assistant** (Biology Department)
 
 * Designed experimental setup for pre-clinical drug discovery research screening non-proprietary chemical compounds for potential antibiotic activity
 * Prepared reagents for experimental use; worked daily under BSL 2 conditions
@@ -86,12 +86,11 @@ Email: felicia.navarro09@gmail.com
 * Advanced Microbiology
 * Separations Science
 
-ASSOCIATIONS
+## Associations
 
-Member, American Society for Microbiology (ASM): Rio Grande Chapter, March 2008 – present 
+* Member, American Society for Microbiology (ASM): Rio Grande Chapter, March 2008 – present 
+* Member, Society for the Advancement of Chicanos and Native Americans in the Sciences (SACNAS), July 2006 – present 
 
-Member, Society for the Advancement of Chicanos and Native Americans in the Sciences (SACNAS), July 2006 – present 
+## References
 
-REFERENCES
-
-Promptly furnished upon request.
+* Promptly furnished upon request.
