@@ -2,14 +2,12 @@
 Email: felicia.navarro09@gmail.com 
 
 ## Overview
-A technical manager obsessed with delivering beautiful products that customers love to use.
 
-* A leader with experience delivering projects on time using agile scrum development methodologies.
-* Experienced in developing iterative processes that include product management, UX, and engineering teams throughout design and development.
-* Strong appreciation for design aesthetics and usability.
-* Deep understanding of software development best practices.
-* Life long ambition to learn and be ahead of the technology curve.
-* A strong mentor that enjoys helping others develop their careers.
+*	Two and a half years in medical device/biotech industry experience and over three years in academic research laboratory
+* Experience in medical device biotech quality control, manufacturing, product development, in R&D environment, as well as experimental design, optimization and validation experience in a GMP/GLP/GCP laboratory
+* Molecular and Immunological SOP expertise, including: Cell culture, PCR, Nucleic acid extraction and purification
+* Organized, attentive to detail, self-motivated, excellent time management
+
 
 ## Experience
 *May, 2014 - Present* : **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
