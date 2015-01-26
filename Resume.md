@@ -14,9 +14,9 @@ Email: felicia.navarro09@gmail.com
 *June 2013 – November 2014* : **Micronics, Inc. - Quality Control Analyst**  (Quality Department)
 
 * Ran long term stability tests on blood typing cards 
-* Routinely ran and analyzed specialized PCR experiments to test for reagent quality and functionality
+* Routinely ran and analyzed specialized PCR experiments using BioRad equipment to test for reagent quality and functionality
 * Assisted in troubleshooting problems under supervision 
-* Assisted engineering department by formulating reagents for use systems testing and product development
+* Assisted engineering department in fine tuning formulation of reagents for use systems testing and product development
 * Ran and recorded results for system testing and product development
 * Worked with contract employees to develop appropriate QC test methods
 * Drafted and implemented instructional documents for departmental use
