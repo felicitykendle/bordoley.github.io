@@ -76,6 +76,21 @@ Email: felicia.navarro09@gmail.com
 * Expert knowledge of the HTTP protocol application layer and utilizing it to implement RESTful APIs.
 * Mobile development using Xamarin for Android and iOS.
 
-## Open Source
-* Maintainer of [SQLitePCL.pretty](https://github.com/bordoley/SQLitePCL.pretty) - A .NET wrapper for SQLite that provides an object oriented API built upon LINQ and the RX extensions that is familiar and easy to use by C# developers.
-* Currently developing [FunctionalHttp](https://github.com/bordoley/FunctionalHttp) - A .NET API written in F# that provides developers an immutable data model for creating and manipulating HTTP requests and responses, along with a fully asynchronous API for implementing HTTP clients and servers using F# asynchronous computations.
+## Relevant Coursework
+
+* General Biology
+* General Chemistry
+* Molecular Biology
+* Cellular Biology
+* Organic Chemistry
+* Virology
+* Infection & Immunity
+* Environmental Toxicology
+* Quantitative Analysis
+* Applied Statistics
+* Genetics
+* Bioinformatics
+* Advanced Biochemistry
+* Advanced Microbiology
+* Separations Science
+
