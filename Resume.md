@@ -59,10 +59,10 @@ Email: felicia.navarro09@gmail.com
 * Carried out routine laboratory maintenance, including: restocking chemicals/reagents, autoclaving glassware, supplies and hazardous waste
 
 ## Education
-*2009 - 2014* : **MS, Computer Science**; University of Washington (Seattle, Wa)
 
-*2003 - 2005* : **MS, Electrical Engineering**; University of Washington (Seattle, Wa)
+*2007 - 2009* : **MS, Biology**; New Mexico Institute of Mining and Technology (Socorro, NM)
 
+*2003- 2006* : **BS, Biology**; New Mexico Institute of Mining and Technology (Socorro, NM)
 
 ## Technical Skills
 
@@ -86,3 +86,12 @@ Email: felicia.navarro09@gmail.com
 * Advanced Microbiology
 * Separations Science
 
+ASSOCIATIONS
+
+Member, American Society for Microbiology (ASM): Rio Grande Chapter, March 2008 – present 
+
+Member, Society for the Advancement of Chicanos and Native Americans in the Sciences (SACNAS), July 2006 – present 
+
+REFERENCES
+
+Promptly furnished upon request.
